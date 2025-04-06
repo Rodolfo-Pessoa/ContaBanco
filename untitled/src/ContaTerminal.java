@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args) {
 
+        //Desafio DIO
+
         Scanner sc = new Scanner(System.in);
         int digito;
         int conta = 1021;
